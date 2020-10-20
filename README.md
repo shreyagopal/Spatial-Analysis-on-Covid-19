@@ -11,7 +11,7 @@ Spatial analysis allows to solve complex location-oriented problems and better u
 
 ## **Covid-19 Data Details**
 The dataset used in this project is taken from 'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'.
-Reason to consider this data set is that it keeps updating. And the features of the dataset are as follows:
+Reason to consider this data set is that it keeps on updating. And the features of the dataset are as follows:
 * &nbsp;&nbsp;&nbsp;Data (object)
 * &nbsp;&nbsp;&nbsp;Country (object)
 * &nbsp;&nbsp;&nbsp;Confirmed (int64)
