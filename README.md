@@ -6,9 +6,9 @@
 Spatial analysis allows to solve complex location-oriented problems and better understand where and what is occurring in the world. It goes beyond mere mapping to let you study the characteristics of places and the relationships between them. Spatial analysis lends new perspectives to  decision-making.
 
 ## **Libraries Used:** 
-* &nbsp;&nbsp;&nbsp;Data Processing Libraries: Numpy, Pandas
-* &nbsp;&nbsp;&nbsp;Geopython Libraries: Geopy, Plotly
-* &nbsp;&nbsp;&nbsp;Data Visualization Libraries: Matplotlib
+* &nbsp;&nbsp;&nbsp;Data Processing Libraries: Numpy (v1.18.5), Pandas (v1.1.2)
+* &nbsp;&nbsp;&nbsp;Geopython Libraries: Geopy, Plotly (v4.4.1)
+* &nbsp;&nbsp;&nbsp;Data Visualization Libraries: Matplotlib (v3.2.2)
 
 ## **Covid-19 Data Details**
 The dataset used in this project is taken from 'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'.
