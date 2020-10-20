@@ -8,6 +8,7 @@ Spatial analysis allows to solve complex location-oriented problems and better u
 ## **Libraries Used:** 
 * &nbsp;&nbsp;&nbsp;Data Processing Libraries: Numpy, Pandas
 * &nbsp;&nbsp;&nbsp;Geopython Libraries: Geopy, Plotly
+* &nbsp;&nbsp;&nbsp;Data Visualization Libraries: Matplotlib
 
 ## **Covid-19 Data Details**
 The dataset used in this project is taken from 'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'.
